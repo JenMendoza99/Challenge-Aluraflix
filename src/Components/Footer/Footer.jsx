@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <Logo src={logo} alt="AluraFlix logo" />
-      <p>Developer by Jenifer Mendoza &copy; 2025</p>
+      <p>Desarrollado por Jenifer Mendoza &copy; 2025</p>
     </FooterContainer>
   );
 };
